@@ -1,3 +1,7 @@
-2026/05/20-10:27:46.459 fe1 Reusing MANIFEST /home/dhruv/Desktop/chromium101/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/05/20-10:27:46.460 fe1 Recovering log #3
-2026/05/20-10:27:46.462 fe1 Reusing old log /home/dhruv/Desktop/chromium101/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/000003.log 
+2026/05/24-11:02:51.634 1268 Reusing MANIFEST /home/dhruv/Desktop/uko/cpr1/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/24-11:02:51.634 1268 Recovering log #3
+2026/05/24-11:02:51.636 1268 Reusing old log /home/dhruv/Desktop/uko/cpr1/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/000003.log 
+2026/05/24-11:02:51.641 126a Level-0 table #5: started
+2026/05/24-11:02:51.646 126a Level-0 table #5: 2162 bytes OK
+2026/05/24-11:02:51.650 126a Delete type=0 #3
+2026/05/24-11:02:51.651 1268 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

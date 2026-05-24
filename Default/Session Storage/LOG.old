@@ -1,3 +1,6 @@
-2026/05/20-10:42:09.256 d897 Reusing MANIFEST /home/dhruv/Desktop/chromium101/Default/Session Storage/MANIFEST-000001
-2026/05/20-10:42:09.286 d897 Recovering log #3
-2026/05/20-10:42:09.311 d897 Reusing old log /home/dhruv/Desktop/chromium101/Default/Session Storage/000003.log 
+2026/05/24-12:10:25.906 19a6 Reusing MANIFEST /home/dhruv/Desktop/uko/cpr1/Default/Session Storage/MANIFEST-000001
+2026/05/24-12:10:25.924 19a6 Recovering log #7
+2026/05/24-12:10:25.929 19a6 Reusing old log /home/dhruv/Desktop/uko/cpr1/Default/Session Storage/000007.log 
+2026/05/24-12:10:59.071 19a6 Level-0 table #11: started
+2026/05/24-12:10:59.096 19a6 Level-0 table #11: 35097 bytes OK
+2026/05/24-12:10:59.109 19a6 Delete type=0 #7

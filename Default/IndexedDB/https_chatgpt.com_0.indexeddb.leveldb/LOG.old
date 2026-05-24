@@ -1,2 +1,3 @@
-2026/05/20-10:36:54.374 fe1 Creating DB /home/dhruv/Desktop/chromium101/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb since it was missing.
-2026/05/20-10:36:54.429 fe1 Reusing MANIFEST /home/dhruv/Desktop/chromium101/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/20-10:42:40.278 d813 Reusing MANIFEST /home/dhruv/Desktop/chromium101/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/20-10:42:40.288 d813 Recovering log #3
+2026/05/20-10:42:40.297 d813 Reusing old log /home/dhruv/Desktop/chromium101/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000003.log 
